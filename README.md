@@ -1,4 +1,4 @@
-# [Text Analysis Software Developers' Workshop 2018](http://textworkshop16.ropensci.org/)
+# [Text Analysis Software Developers' Workshop 2018](http://textworkshop18.ropensci.org/)
 
 __(invitation only), April 20 - 21, 2018. New York__
 
