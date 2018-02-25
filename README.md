@@ -1,6 +1,6 @@
 # [Text Analysis Software Developers' Workshop 2018](http://textworkshop16.ropensci.org/)
 
-__(invitation only), April 18 - 20, 2018. New York__
+__(invitation only), April 20 - 21, 2018. New York__
 
 Supported by
 <a href="https://cds.nyu.edu/"><img src="images/sponsors/CDS.png" alt="CDS Logo" width = 300></a>
