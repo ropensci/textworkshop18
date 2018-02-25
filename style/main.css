@@ -98,6 +98,17 @@
     background: url("../../images/participants/kohei-watanabe.png") no-repeat;
     background-size: cover; }
 
+.sam-bowman .participant-image {
+    background: url("../../images/participants/sam-bowman.jpg") no-repeat;
+    background-size: cover; }
+
+.kyunghyun-cho .participant-image {
+    background: url("../../images/participants/kyunghyun-cho.jpg") no-repeat;
+    background-size: cover; }
+
+.fernandez-granda-carlos .participant-image {
+    background: url("../../images/participants/fernandez-granda-carlos.jpg") no-repeat;
+    background-size: cover; }
 
 
 /*To add new participants, create a class like the ones above.
