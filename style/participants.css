@@ -34,6 +34,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.brendan-oconnor .participant-image {
+    background: url("../../images/participants/brendan-oconnor.jpg") no-repeat;
+background-size: cover; }
+
+
 .bryce-dietrich .participant-image {
     background: url("../../images/participants/bryce-dietrich.jpg") no-repeat;
 background-size: cover; }
@@ -191,5 +196,10 @@ background-size: cover; }
 
 .will-lowe .participant-image {
     background: url("../../images/participants/will-lowe.jpg") no-repeat;
+background-size: cover; }
+
+
+.wouter-van-atteveldt .participant-image {
+    background: url("../../images/participants/wouter-van-atteveldt.png") no-repeat;
 background-size: cover; }
 
