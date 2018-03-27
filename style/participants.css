@@ -14,6 +14,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.ben-schmidt .participant-image {
+    background: url("../../images/participants/ben-schmidt.jpg") no-repeat;
+background-size: cover; }
+
+
 .blank .participant-image {
     background: url("../../images/participants/blank.png") no-repeat;
 background-size: cover; }
@@ -21,6 +26,11 @@ background-size: cover; }
 
 .brandon-stewart .participant-image {
     background: url("../../images/participants/brandon-stewart.jpg") no-repeat;
+background-size: cover; }
+
+
+.bryce-dietrich .participant-image {
+    background: url("../../images/participants/bryce-dietrich.jpg") no-repeat;
 background-size: cover; }
 
 
@@ -54,8 +64,18 @@ background-size: cover; }
 background-size: cover; }
 
 
+.james-bradbury .participant-image {
+    background: url("../../images/participants/james-bradbury.jpg") no-repeat;
+background-size: cover; }
+
+
 .jeroen-ooms .participant-image {
     background: url("../../images/participants/jeroen-ooms.jpg") no-repeat;
+background-size: cover; }
+
+
+.jose-atria .participant-image {
+    background: url("../../images/participants/jose-atria.jpg") no-repeat;
 background-size: cover; }
 
 
@@ -114,6 +134,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.pablo-barbera .participant-image {
+    background: url("../../images/participants/pablo-barbera.jpg") no-repeat;
+background-size: cover; }
+
+
 .patrick-perry .participant-image {
     background: url("../../images/participants/patrick-perry.jpg") no-repeat;
 background-size: cover; }
@@ -126,6 +151,11 @@ background-size: cover; }
 
 .sam-bowman .participant-image {
     background: url("../../images/participants/sam-bowman.jpg") no-repeat;
+background-size: cover; }
+
+
+.sasha-goodman .participant-image {
+    background: url("../../images/participants/sasha-goodman.jpg") no-repeat;
 background-size: cover; }
 
 
