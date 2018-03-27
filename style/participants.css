@@ -119,6 +119,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.leslie-huang .participant-image {
+    background: url("../../images/participants/leslie-huang.jpg") no-repeat;
+background-size: cover; }
+
+
 .lincoln-mullen .participant-image {
     background: url("../../images/participants/lincoln-mullen.jpg") no-repeat;
 background-size: cover; }
