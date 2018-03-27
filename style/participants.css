@@ -9,6 +9,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.andreas-mueller .participant-image {
+    background: url("../../images/participants/andreas-mueller.jpg") no-repeat;
+background-size: cover; }
+
+
 .arthur-spirling .participant-image {
     background: url("../../images/participants/arthur-spirling.jpg") no-repeat;
 background-size: cover; }
@@ -31,6 +36,11 @@ background-size: cover; }
 
 .bryce-dietrich .participant-image {
     background: url("../../images/participants/bryce-dietrich.jpg") no-repeat;
+background-size: cover; }
+
+
+.david-mimno .participant-image {
+    background: url("../../images/participants/david-mimno.jpg") no-repeat;
 background-size: cover; }
 
 
