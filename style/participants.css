@@ -84,6 +84,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.jan-wijffels .participant-image {
+    background: url("../../images/participants/jan-wijffels.jpg") no-repeat;
+background-size: cover; }
+
+
 .jeroen-ooms .participant-image {
     background: url("../../images/participants/jeroen-ooms.jpg") no-repeat;
 background-size: cover; }
