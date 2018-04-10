@@ -179,6 +179,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.sarah-bouchat .participant-image {
+    background: url("../../images/participants/sarah-bouchat.jpg") no-repeat;
+background-size: cover; }
+
+
 .sasha-goodman .participant-image {
     background: url("../../images/participants/sasha-goodman.jpg") no-repeat;
 background-size: cover; }
