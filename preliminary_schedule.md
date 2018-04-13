@@ -7,16 +7,16 @@
 ## Day 1
 
 -  9-10:00  Introductions (Everyone introduces him/herself, describes package(s), objectives and interests).  Max 4-5 mins each, including one slide added to the Google Slides intro slide deck.  (Link via email.)
--  10:00-11:00 Roundtable 1
+- 10:00-11:00 Roundtable 1
 - 11:00-11:15 Coffee break
 - 11:15-12:00 Roundtable 2
-- 12:00-12:45 Roundtable 3
+- 12:00-12:45 Users' Corner
 - 12:45-13:30 Lunch
 - 13:30-13:30 Prep for hackathon issues
 - 13:30-15:30 Working sessions/hackathon
 - 15:30-15:45 Coffee break
-- 15:45-17:00 Roundtable 4
-- 17:00-18:00 Users' corner
+- 15:45-17:00 Roundtable 3
+- 17:00-18:00 Roundtable 4
 - 18:30- Dinner on site
 
 ## Day 2
