@@ -21,7 +21,7 @@
 
 ## Day 2
 
-- 9:30-10:10 from `__future__` import (Everyone shares what they are working on now or in the near future, outside the workshop).
+- 9:30-10:10 `from __future__ import` (Everyone shares what they are working on now or in the near future, outside the workshop).
 - 10:10-10:40 Demos
 - 10:45-11:00 Coffee break
 - 11:00-12:00 Sneak previews: Work in progress
