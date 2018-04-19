@@ -21,14 +21,15 @@
 
 ## Day 2
 
-- 9:30-10:10 from `__future__` import (Everyone shares what they are working on now or in the near future, outside the workshop).
-- 10:10-10:40 Demos
-- 10:45-11:00 Coffee break
+- 9:30-10:00 from `__future__` import (Everyone shares what they are working on now or in the near future, outside the workshop).
+- 10:00-10:15 Coffee break
+- 10:15-11:00 Demos
 - 11:00-12:00 Sneak previews: Work in progress
-- 12:00-12:45 Wish lists
-- 12:45-13:30 Lunch
-- 13:30-15:30 Working sessions/hackathon
-- 15:30-15:45 Coffee break
+- 12:00-12:45 Lunch
+- 12:45-13:30 Wish lists
+- 13:30-14:30 Working sessions/hackathon
+- 14:30-14:45 Coffee break
+- 14:45-15:45 Working sessions/hackathon
 - 15:45-17:30 Working groups present results, identify future goals, etc.
 
 ## Roundtables
