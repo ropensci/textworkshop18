@@ -54,6 +54,11 @@ background-size: cover; }
 background-size: cover; }
 
 
+.elin-waring .participant-image {
+    background: url("../../images/participants/elin-waring.jpg") no-repeat;
+background-size: cover; }
+
+
 .fernandez-granda-carlos .participant-image {
     background: url("../../images/participants/fernandez-granda-carlos.jpg") no-repeat;
 background-size: cover; }
